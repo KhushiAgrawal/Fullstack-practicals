@@ -1,0 +1,40 @@
+*{
+    padding: 0; margin: 0;box-sizing: border-box;
+}
+body{
+    min-width: 100%;
+    background-color: lightgrey;
+}
+h2{
+    color: white;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+    margin: 20px;
+}
+.wrapper{
+    width:80%;
+    background-color: steelblue;
+    padding: 10px;
+    margin:20px auto;
+}
+.live-Practical{
+    width:100%;
+    background-color: white;
+}
+.live-Practical td, .live-Practical th{
+    width: 500px;
+    padding: 20px 5px;
+    text-align: center;
+    border-right: 2px solid white;
+    border-left: 2px solid white;
+    background-color: white;
+    
+}
+ .live-Practical td{
+    border-bottom: lightgrey;
+    border-width: 2px;
+    width:100px;
+    
+    
+}
